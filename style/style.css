@@ -1,0 +1,92 @@
+.body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 11rem;
+    padding-right: 11rem;
+  background-color: blueviolet;
+  
+}
+.toolbar-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 15px;
+  
+}
+.toolbar-flex a{
+    color: #d8921c;
+    text-decoration: none;
+}
+.p-1{
+    color:#d8921c ;
+}
+.toolbar-flex p{
+color: white;
+}
+.header{
+    padding-left: 9rem;
+    padding-right: 9rem;
+}
+.menu{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+
+    font-size: 25px;
+
+}
+.menu li{
+    list-style: none;
+    cursor: pointer;
+    border-bottom: none;
+}
+.menu button{
+    color: white;
+    background-color: blueviolet;
+    border-radius:5px ;
+    padding: 15px;
+    border: none;
+}
+.menu a{
+text-decoration: none;
+}
+.menu a:hover{
+    border-bottom: tomato;
+}
+.menu2 h1{
+    color: white;
+font-size: 70px;
+padding-top: 10rem;
+}
+
+.second{
+    padding-left: 11rem;
+    padding-right: 18rem;
+    background-image: url(../img/background.png);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+}
+
+.menu2 p{
+    color: white;
+    font-size: 25px;
+
+}
+.menu2 button{
+    color: black;
+    background-color:#d8921c ;
+    padding: 10px;
+    border-radius: 5px;
+}
+.icon a{
+   display: grid;
+   padding-top: 2rem;
+   font-size: 40px;
+   text-decoration: none;
+}
