@@ -167,3 +167,198 @@ justify-content: space-between;
 .our-work img{
     width: 100%;
 }
+.our-works{
+    background-repeat: no-repeat;
+display: flex;
+justify-content: space-between;
+padding-left: 11rem;
+padding-right: 11rem;
+}
+
+.our-works h1{
+color: white;
+padding-top: 7rem;
+}
+.our-works2{
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 11rem;
+    padding-right: 11rem;
+}
+
+.our-works2 h1{
+    color: white;
+padding-top: 7rem;
+}
+.work1{
+background-image: url(../img/работа\ на\ манаса\ 3.png);
+background-size: cover;
+height: 10vh;
+width: 30vh;
+margin: 20px;
+padding: 70px 18px;
+}
+
+.work2{
+    background-image: url(../img/работа\ на\ манаса\ 2.png);
+    background-size: cover;
+height: 10vh;
+margin: 20px;
+padding: 70px 18px;
+width: 30vh;
+}
+
+.work3{
+    background-image: url(../img/1\ работа\ на\ манаса.png);
+    background-size: cover;
+height: 10vh;
+margin: 20px;
+padding: 70px 18px;
+width: 30vh;
+}
+
+.work4{
+    background-image: url(../img/работа\ на\ манаса\ 4.png);
+    background-size: cover;
+height: 10vh;
+margin: 20px;
+padding: 70px 18px;
+width: 30vh;
+}
+
+.work5 {
+    background-image: url(../img/работа\ на\ манаса\ 3.png);
+    background-size: cover;
+height: 10vh;
+margin: 20px;
+padding: 70px 18px;
+width: 30vh;
+}
+.work6{
+    background-image: url(../img/работана\ манаса2.png);
+    background-size: cover;
+height: 10vh;
+margin: 20px;
+padding: 70px 18px;
+width: 30vh;
+}
+.button{
+  
+}
+.button button{
+    text-align: center;
+    color:white;
+    background-color:blueviolet ;
+    padding: 19px;
+    border-radius: 5px;
+    font-size: 19px;
+    padding-left: 6rem;
+    padding-right:6rem;
+}
+.production{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.production h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 10px;
+}
+.production img{
+    width: 100%;
+}
+.production-img{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 11rem;
+   padding-right: 11rem;
+}
+.production-img img{
+    margin: 20px;
+    padding: 70px 18px;
+}
+
+
+.button button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+}
+.our-price-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.our-price-img h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.our-price-img img{
+    width: 100%;
+}
+.our-price{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 11rem;
+    padding-right: 11rem;
+}
+.our-price-head img{
+    width: 20rem;
+    margin: 20px;
+padding:1px 18px;
+}
+
+.our-price2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 11rem;
+    padding-right: 11rem;
+}
+.our-price-head p{
+    padding-left: 35px;
+    padding-right: 35px;
+    color: rgba(102,101,102);
+    font-size: 23px;
+}
+.our-price-head h1{
+padding-left: 2rem;
+color: blueviolet;
+}
+.our-price-head button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    color:white;
+    background-color:blueviolet ;
+    padding: 19px;
+    border-radius: 5px;
+    font-size: 19px;
+    padding-left: 6rem;
+    padding-right:6rem;
+}
+.costumer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+.costumer h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 10px;
+}
+.costumer img{
+    width: 100%;
+}
